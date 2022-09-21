@@ -1,5 +1,0 @@
-org/openmrs/module/covid19/extension/html/AdminList.class
-org/openmrs/module/covid19/fragment/controller/UsersFragmentController.class
-org/openmrs/module/covid19/fragment/controller/Cv19detailsFragmentController.class
-org/openmrs/module/covid19/fragment/controller/EncountersTodayFragmentController.class
-org/openmrs/module/covid19/web/controller/Covid19Controller.class
